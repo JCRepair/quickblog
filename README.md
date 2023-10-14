@@ -3,7 +3,7 @@ copies a template and pastes into a new directory!
 
 yup thats pretty much it.
 
-however the point of this is to make it easier to add another directory with everthing you need to start writing without copy code and other boilerplate html over.
+however the point of this is to make it easier to add another directory with everthing you need to start writing without  manualy copying boilerplate over.
 
 the program assumes that ` /var/www/html/blog ` exists as thats where my blog page is on joelwolson.xyz
 the program assumes that ` /var/www/html/blog/template ` exists to copy the template over to the new directory
