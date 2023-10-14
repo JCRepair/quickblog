@@ -12,4 +12,4 @@ the way this works is that you have a directory with a template of all of the cs
 
 
 to install the program, simply copy the ` make-blog.sh ` file and type ` chmod -x make-blog.sh ` and then run it with ` ./make-blog.sh `
-or if you are like me alias it in your bash or zsh rc file so you can launch it like a normal program
+or if you are like me alias it in your bash or zsh rc file so you can run it like a normal program
