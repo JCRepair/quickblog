@@ -14,4 +14,4 @@ the way this works is that you have a directory with a template of all of the cs
 to install the program, simply copy the ` make-blog.sh ` file and type ` chmod -x make-blog.sh ` and then run it with ` ./make-blog.sh `
 or if you are like me alias it in your bash or zsh rc file so you can run it like a normal program
 
-![ezgif-1-988795045f](https://github.com/JCRepair/quickblog/assets/147447219/52a4e9b4-12f3-4efe-8b60-2de2662bb401)
+![modified_gif_indefinite](https://github.com/JCRepair/quickblog/assets/147447219/5180bb7b-d1eb-4c0c-b62d-20c9f3c9e201)
